@@ -1,5 +1,7 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-13: Provide summarized water quality view for public users
+This feature shows a simple and easy-to-understand summary of water quality for lakes and rivers. Technical details are hidden to avoid confusion for public users. It allows users to quickly check whether the water is safe or unsafe.
 ## T-14: Implement Multi-Channel Alert Notification Delivery 
 ## F-17:Implement Multi-Channel Alert Notification Delivery 
 This feature allows alerts to reach users instantly through multiple communication channels so important notifications are never missed. When an alert is generated, the system can notify relevant users through email, SMS, and clear dashboard pop-up messages. Each notification clearly communicates what happened, which parameter caused the alert, and its severity, ensuring users receive timely and reliable information from wherever they are.
