@@ -1,5 +1,12 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-29: Public Access to Basic Water Quality Information
+ Provides public users with read-only access to essential water quality data, ensuring transparency while protecting advanced system functionality.
+ **Status: Implemented** >> PROJECT_FEATURES.md
+echo  **Status: Implemented** >> PROJECT_FEATURES.md
+
+echo  >> PROJECT_FEATURES.md
+echo  **Status: Implemented**
 ## F-14:Implement heatmap or color-coded water quality status indicators
 This feature uses heatmaps and color indicators to represent water quality levels visually. Different colors indicate clean, warning, or dangerous conditions. It helps users identify problem areas at a glance.
 ## F-4: Implement Password Management & Recovery
