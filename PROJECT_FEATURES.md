@@ -1,5 +1,7 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## T-14: Technician Sensor Setup and Maintenance Access 
+ Restricts technicians’ system access to sensor installation, configuration, and maintenance tasks, preventing exposure to administrative or analytical features.
 ## F-12:Implement water quality trend monitoring for officers and researchers
 This feature provides trend monitoring of water quality parameters over time using visual charts. Environmental officers and researchers can analyze changes and patterns in water conditions. It helps in understanding long-term and short-term variations.
 ##F-7: Safe Limit Configuration
