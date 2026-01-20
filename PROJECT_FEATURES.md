@@ -1,5 +1,7 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-15: Allow water body selection for monitoring
+ This feature allows users to select different lakes or rivers for monitoring. Once selected, the system updates the displayed data accordingly. It makes it easy to monitor multiple water bodies from one dashboard.
 ## F-29: Public Access to Basic Water Quality Information
  Provides public users with read-only access to essential water quality data, ensuring transparency while protecting advanced system functionality.
  **Status: Implemented** >> PROJECT_FEATURES.md
