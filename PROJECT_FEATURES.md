@@ -3,6 +3,8 @@ This feature allows users to create an account by entering name, email, password
 ## T-14: Implement Multi-Channel Alert Notification Delivery 
 ## F-17:Implement Multi-Channel Alert Notification Delivery 
 This feature allows alerts to reach users instantly through multiple communication channels so important notifications are never missed. When an alert is generated, the system can notify relevant users through email, SMS, and clear dashboard pop-up messages. Each notification clearly communicates what happened, which parameter caused the alert, and its severity, ensuring users receive timely and reliable information from wherever they are.
+## F-3: Implement Profile Management
+This feature allows users to view and update their personal information, including name, gender, location, and password. All updates are validated to ensure accuracy and security, giving users control over their profile while maintaining system integrity.
 ## T-14: Technician Sensor Setup and Maintenance Access 
  Restricts technicians’ system access to sensor installation, configuration, and maintenance tasks, preventing exposure to administrative or analytical features.
 ## F-12:Implement water quality trend monitoring for officers and researchers
