@@ -1,5 +1,8 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+##F-9:Offline Data Backup & Sync
+If a sensor loses network connectivity, data is temporarily stored locally to prevent data loss. Once the connection is restored, the system automatically synchronizes the offline data with the central database.
+**Status:Implemented**
 ## F-5: Implement Role-Based Dashboard Access
 This feature displays different dashboards and functionalities based on the user’s selected role (Admin, Environmental Officer, Field Technician, General User, or Researcher). Users can only access features permitted for their role, ensuring security, clarity, and efficient workflow.
 ## F-15: Allow water body selection for monitoring
