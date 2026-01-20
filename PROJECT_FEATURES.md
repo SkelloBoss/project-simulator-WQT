@@ -5,6 +5,8 @@ This feature enables users to change their password securely or recover a forgot
 **Status: Implemented**
 ## F-4: Implement Password Management & Recovery
 This feature enables users to change their password securely or recover a forgotten password using verification methods such as email or OTP. Passwords are encrypted, and strong password rules are enforced to protect user accounts.
+##F-8:Real-Time Data Transmission
+**Status:Implemented**
 ## F-13: Provide summarized water quality view for public users
 This feature shows a simple and easy-to-understand summary of water quality for lakes and rivers. Technical details are hidden to avoid confusion for public users. It allows users to quickly check whether the water is safe or unsafe.
 ## T-14: Implement Multi-Channel Alert Notification Delivery 
