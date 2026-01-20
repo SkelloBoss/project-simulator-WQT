@@ -1,5 +1,18 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-30: Advanced Data Access for Researchers
+ Grants researchers access to advanced analytics features, detailed datasets, and data export options to support scientific analysis and research activities.
+**Status: Implemented**>> PROJECT_FEATURES.md
+echo **Status: Implemented**>> PROJECT_FEATURES.md
+echo  >>PROJECT_FEATURES.md
+
+echo **Status: Implemented**>> PROJECT_FEATURES.md
+echo  >>PROJECT_FEATURES.md
+
+
+echo **Status: Implemented**
+**Status: Implemented**
+
 ##F-9:Offline Data Backup & Sync
 If a sensor loses network connectivity, data is temporarily stored locally to prevent data loss. Once the connection is restored, the system automatically synchronizes the offline data with the central database.
 **Status:Implemented**
