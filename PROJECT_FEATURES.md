@@ -1,5 +1,10 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-4: Implement Password Management & Recovery
+This feature enables users to change their password securely or recover a forgotten password using verification methods such as email or OTP. Passwords are encrypted, and strong password rules are enforced to protect user accounts.
+**Status: Implemented**
+## F-4: Implement Password Management & Recovery
+This feature enables users to change their password securely or recover a forgotten password using verification methods such as email or OTP. Passwords are encrypted, and strong password rules are enforced to protect user accounts.
 ##F-8:Real-Time Data Transmission
 **Status:Implemented**
 ## F-13: Provide summarized water quality view for public users
