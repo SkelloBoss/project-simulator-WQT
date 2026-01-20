@@ -1,5 +1,7 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-3: Implement Profile Management
+This feature allows users to view and update their personal information, including name, gender, location, and password. All updates are validated to ensure accuracy and security, giving users control over their profile while maintaining system integrity.
 ## T-14: Technician Sensor Setup and Maintenance Access 
  Restricts technicians’ system access to sensor installation, configuration, and maintenance tasks, preventing exposure to administrative or analytical features.
 ## F-12:Implement water quality trend monitoring for officers and researchers
