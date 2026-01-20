@@ -1,5 +1,42 @@
+This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
 ## F-5: Implement Role-Based Dashboard Access
 This feature displays different dashboards and functionalities based on the user’s selected role (Admin, Environmental Officer, Field Technician, General User, or Researcher). Users can only access features permitted for their role, ensuring security, clarity, and efficient workflow.
+## F-15: Allow water body selection for monitoring
+ This feature allows users to select different lakes or rivers for monitoring. Once selected, the system updates the displayed data accordingly. It makes it easy to monitor multiple water bodies from one dashboard.
+## F-29: Public Access to Basic Water Quality Information
+ Provides public users with read-only access to essential water quality data, ensuring transparency while protecting advanced system functionality.
+ **Status: Implemented** >> PROJECT_FEATURES.md
+echo  **Status: Implemented** >> PROJECT_FEATURES.md
+
+echo  >> PROJECT_FEATURES.md
+echo  **Status: Implemented**
+## F-14:Implement heatmap or color-coded water quality status indicators
+This feature uses heatmaps and color indicators to represent water quality levels visually. Different colors indicate clean, warning, or dangerous conditions. It helps users identify problem areas at a glance.
+## F-4: Implement Password Management & Recovery
+This feature enables users to change their password securely or recover a forgotten password using verification methods such as email or OTP. Passwords are encrypted, and strong password rules are enforced to protect user accounts.
+**Status: Implemented**
+## F-4: Implement Password Management & Recovery
+This feature enables users to change their password securely or recover a forgotten password using verification methods such as email or OTP. Passwords are encrypted, and strong password rules are enforced to protect user accounts.
+##F-8:Real-Time Data Transmission
+**Status:Implemented**
+## F-13: Provide summarized water quality view for public users
+This feature shows a simple and easy-to-understand summary of water quality for lakes and rivers. Technical details are hidden to avoid confusion for public users. It allows users to quickly check whether the water is safe or unsafe.
+## T-14: Implement Multi-Channel Alert Notification Delivery 
+## F-17:Implement Multi-Channel Alert Notification Delivery 
+This feature allows alerts to reach users instantly through multiple communication channels so important notifications are never missed. When an alert is generated, the system can notify relevant users through email, SMS, and clear dashboard pop-up messages. Each notification clearly communicates what happened, which parameter caused the alert, and its severity, ensuring users receive timely and reliable information from wherever they are.
+## F-3: Implement Profile Management
+This feature allows users to view and update their personal information, including name, gender, location, and password. All updates are validated to ensure accuracy and security, giving users control over their profile while maintaining system integrity.
+## T-14: Technician Sensor Setup and Maintenance Access 
+ Restricts technicians’ system access to sensor installation, configuration, and maintenance tasks, preventing exposure to administrative or analytical features.
+## F-12:Implement water quality trend monitoring for officers and researchers
+This feature provides trend monitoring of water quality parameters over time using visual charts. Environmental officers and researchers can analyze changes and patterns in water conditions. It helps in understanding long-term and short-term variations.
+##F-7: Safe Limit Configuration
+Admins and Environmental Officers can define acceptable threshold values for pH, temperature, and turbidity based on environmental standards. These limits are stored in the system and are used to evaluate incoming sensor data and trigger alerts when exceeded.
+**Status:Implemented**
+## F-2: Implement Login/Logout Page
+This feature enables registered users to securely log in and log out of the system using their email and password. The system verifies credentials, prevents unauthorized access, and manages user sessions securely. Proper authentication ensures that users can only access features permitted by their selected role.
+## F-27: Sensor and Dashboard Monitoring for Officers
+Allows officers to monitor sensor data, manage alerts, and oversee public dashboards to ensure real-time visibility and operational oversight of water quality conditions.
 **Status: Implemented**
 
