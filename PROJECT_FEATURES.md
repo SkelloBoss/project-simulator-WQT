@@ -1,5 +1,7 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+## F-12:Implement water quality trend monitoring for officers and researchers
+This feature provides trend monitoring of water quality parameters over time using visual charts. Environmental officers and researchers can analyze changes and patterns in water conditions. It helps in understanding long-term and short-term variations.
 ##F-7: Safe Limit Configuration
 Admins and Environmental Officers can define acceptable threshold values for pH, temperature, and turbidity based on environmental standards. These limits are stored in the system and are used to evaluate incoming sensor data and trigger alerts when exceeded.
 **Status:Implemented**
