@@ -1,5 +1,8 @@
 This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
+##F-10:Sensor Health & Performance Monitoring
+Technicians can monitor sensor operational status including battery level, signal strength, uptime, and error conditions. The system also maintains a complete maintenance and performance history for troubleshooting and auditing purposes.
+**Status:Implemented**
 ## F-30: Advanced Data Access for Researchers
  Grants researchers access to advanced analytics features, detailed datasets, and data export options to support scientific analysis and research activities.
 **Status: Implemented**>> PROJECT_FEATURES.md
