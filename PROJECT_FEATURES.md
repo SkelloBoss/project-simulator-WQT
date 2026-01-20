@@ -1,3 +1,4 @@
+This feature allows users to create an account by entering name, email, password, gender, and location, and by selecting their role from options such as Environmental Officer, Field Technician, General User, or Researcher. The system prevents duplicate email registration and securely encrypts passwords.
 # Implemented Features
 ## F-11: Implement real-time sensor data collection (pH, turbidity, temperature)
 This feature allows the system to automatically collect live data from pH, turbidity, and temperature sensors. The data is updated continuously without manual input. It ensures users always see the most recent water quality information.
